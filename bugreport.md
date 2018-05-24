@@ -4,7 +4,7 @@ There is an vulnerability in the `"SwizzGearPass"` mobile app, Specifically in h
 #### Steps to reproduce the issue
 
 1. Download `SwizzGearPass App` from the `Google Play` or `Apple App Store` 
-2. Log into device using valid credentials. (Phone Number, MFA code, and Personal Pin) -- Side Note: Using SMS as MFA is also a potential issue, as SMS can be co-opted.
+2. Log into device using valid credentials. (Phone Number, MFA code, and Personal Pin) ###Side Note: Using SMS as MFA is also a potential issue, as SMS can be co-opted.
 3. Both devices now display the same account with access to all available passes
 
 #### Additional details / screenshots
